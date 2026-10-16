@@ -2,10 +2,6 @@
 
 Projeto simples de **Login e Cadastro de usuários**, feito para fins de estudo.
 
-Baseado na ideia do repositório
-[TonnyThe2nd/site-Login-Cadastro](https://github.com/TonnyThe2nd/site-Login-Cadastro),
-mas aqui reescrito com um back-end diferente.
-
 ## 🛠️ Tecnologias usadas
 
 - **Front-end:** HTML + [Bootstrap 5](https://getbootstrap.com/)
