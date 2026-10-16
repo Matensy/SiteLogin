@@ -1,0 +1,20 @@
+/* style.css
+   Estilo simples pra deixar o site centralizado e com um fundo agradável.
+   O resto do visual vem do Bootstrap 5. */
+
+body.tela-centralizada {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+}
+
+/* O "cartão" branco onde ficam os formulários */
+.cartao-form {
+  width: 100%;
+  max-width: 400px;
+  border: none;
+  border-radius: 16px;
+}

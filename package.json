@@ -1,0 +1,25 @@
+{
+  "name": "site-login-cadastro",
+  "version": "1.0.0",
+  "description": "Site simples de Login e Cadastro feito com Node.js (Express) + Bootstrap 5",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "login",
+    "cadastro",
+    "express",
+    "bootstrap",
+    "iniciante"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "express-session": "^1.18.0"
+  }
+}
